@@ -12,7 +12,8 @@ Source Codes for this repository will be added later, in the meantime if you hav
 
 ### Authors
 
-* [**Sadeq Aramideh**](https://github.com/Aramideh) 
+* [**Sadeq Aramideh**](https://github.com/Aramideh)
+
 **Email: sadegh.a@gmail.com**
 
 ### Acknowledgments
