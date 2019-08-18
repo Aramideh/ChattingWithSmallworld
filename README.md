@@ -2,7 +2,7 @@
 XMPP(Jabber) implementation for Smallworld GE
 
 
-[*Demo*](https://www.youtube.com/watch?v=iT73k5rZF3Q)
+* [* Demo * ](https://www.youtube.com/watch?v=iT73k5rZF3Q)
 
 ### Getting Started
 
