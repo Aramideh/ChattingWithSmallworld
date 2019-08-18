@@ -2,7 +2,7 @@
 XMPP(Jabber) implementation for Smallworld GE
 
 
-![](https://github.com/Aramideh/RestSwTics/tree/master/raw/tester.png)
+![](https://www.youtube.com/watch?v=iT73k5rZF3Q)
 
 ### Getting Started
 
